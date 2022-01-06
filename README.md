@@ -1,0 +1,2 @@
+# perl-patricbrc_down
+patricbrc数据库下载所需要的基因或者序列文件
